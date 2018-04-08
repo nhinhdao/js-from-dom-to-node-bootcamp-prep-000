@@ -1,2 +1,2 @@
 // write your code below!
-console.log("Hellp, World")
+console.log("Hello, World")
